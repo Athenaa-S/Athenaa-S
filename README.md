@@ -15,15 +15,15 @@ I'm actively seeking full-time opportunities to continue on this path.
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently learning **Python and PHP**
 
-- 📫 How to reach me **somenathena@gmail.com**
+-  🤓 Always **learning new things**
 
-- ⚡ Fun fact **I'm a bookworm, an artist (drawing and painting), and a travel enthusiast**
+- 📫 How to reach me **[email](somenathena@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 😄 Pronouns **she/her**
+
+- ⚡ Fun fact **I love reading, drawing and traveling**
 
 
 <h3 align="left">Tech Stack:</h3>
