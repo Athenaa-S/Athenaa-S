@@ -1,4 +1,4 @@
-<img align="center" src="https://images.unsplash.com/photo-1556196148-1fb724238998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhlYWRwaG9uZXN8ZW58MHx8MHx8fDA%3D&w=1000&q=80" width = 1000/>
+<img align="center" src="https://img.freepik.com/premium-photo/laptop-headphones-yellow-background_23-2148210394.jpg" width = 1000/>
 <h1 align="center">Hello World, I'm Athena 💜</h1>
 
 <h3 align="center">A Passionate Junior Full Stack Developer!</h3>
