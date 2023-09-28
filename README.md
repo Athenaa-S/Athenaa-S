@@ -1,4 +1,4 @@
-<img align="center" src="https://img.freepik.com/photos-gratuite/appareils-electroniques-pour-ecouter-musique-tasse-cafe_1150-6689.jpg?w=1480&t=st=1695909480~exp=1695910080~hmac=9229934115c01555e7282bc9f0f02d14ac3a9dc577394d9976fab563112b874b" width = 1000/>
+<img align="center" src="https://images.unsplash.com/photo-1556196148-1fb724238998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhlYWRwaG9uZXN8ZW58MHx8MHx8fDA%3D&w=1000&q=80" width = 1000/>
 <h1 align="center">Hello World, I'm Athena 💜</h1>
 
 <h3 align="center">A Passionate Junior Full Stack Developer!</h3>
