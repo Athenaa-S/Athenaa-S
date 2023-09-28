@@ -19,7 +19,7 @@ I'm actively seeking full-time opportunities to continue on this path.
 
 -  🤓 Always **learning new things**
 
-- 📫 How to reach me **[email](somenathena@gmail.com)**
+- 📫 How to reach me **[email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=somenathena@gmail.com)**
 
 - 😄 Pronouns **she/her**
 
